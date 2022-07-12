@@ -1,4 +1,4 @@
-# Oi, tudo bem? Esse codigo faz parte do modulo do Santander Bootcamp Fullstack Developer realizado pela Dio e ministrado pela instrutora @SpruceGabriela🙃
+Modulo do Santander Bootcamp Fullstack Developer realizado pela Dio e ministrado pela instrutora @SpruceGabriela🙃
 
 Utilizei o repositorio da aula de Flexbox para fazer a interface de login do Instagram! 
 
